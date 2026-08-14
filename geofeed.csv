@@ -1,7 +1,11 @@
-2a0f:1cc5:45ff::/48,,,,
-2a0f:1cc5:4500::/45,CN,CN-SH,Shanghai,200000
+# 2a0f:1cc5:4500::/40
+2a0f:1cc5:4500::/45,CN,CN-SH,Shanghai,
 2a0f:1cc5:4508::/46,HK,,Hong Kong,
-2a0f:1cc5:450c::/47,FR,FR-59,Gravelines,59820
+2a0f:1cc5:450c::/47,FR,FR-59,Gravelines,
 2a0f:1cc5:450e::/48,MO,,Macao,
 2a0f:1cc5:4510::/46,JP,JP-13,Tokyo,
-2a0f:1cc5:4514::/46,JP,JP-13,Shinagawa,140-0002
+2a0f:1cc5:4514::/46,JP,JP-13,Shinagawa,
+2a0f:1cc5:45ff::/48,,,,
+
+# 2a0e:4005:ff00::/40
+2a0e:4005:ff20::/48,SG,SG-01,Singapore,
