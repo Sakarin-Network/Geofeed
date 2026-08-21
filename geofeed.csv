@@ -1,5 +1,6 @@
 # 2a0e:4005:ff00::/40
 2a0e:4005:ff20::/48,SG,SG-01,Singapore,
+2a0e:4005:ffdd::/48,HK,,Hong Kong,
 
 # 2a0f:1cc5:4500::/40
 2a0f:1cc5:4500::/45,CN,CN-SH,Shanghai,
